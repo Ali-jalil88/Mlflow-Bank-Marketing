@@ -9,6 +9,9 @@
     8- Results and Evaluation
     9- Contributing
     10- License
+
+![Machine Learning Models in Bank Marketing Project](https://raw.githubusercontent.com/Ali-jalil88/Mlflow-Bank-Marketing/refs/heads/main/DALL%C2%B7E%202024-11-18%2015.08.36%20-%20An%20infographic%20displaying%20different%20machine%20learning%20models%20used%20in%20a%20Bank%20Marketing%20Project.%20Include%20models%20such%20as%20Logistic%20Regression%2C%20Random%20Fores.webp)
+
 # Introduction
 The Bank Marketing Dataset MLflow Project is a machine learning project that predicts whether a client will subscribe to a term deposit (deposit as target variable) based on their demographic and interaction data. This repository utilizes MLflow to streamline experiment tracking, reproducibility, and model deployment.
 

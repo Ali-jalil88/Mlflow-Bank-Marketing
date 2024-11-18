@@ -48,8 +48,20 @@ Prerequisites
 
 - Metrics: Accuracy, Precision, Recall, ROC-AUC.
 5. Experiment Tracking:
-
-- Log parameters, metrics, and artifacts in MLflow.
+  - Log parameters, metrics, and artifacts in MLflow.
 6. Model Deployment:
 
 - Save the best-performing model for deployment.
+
+# MLflow Integration
+What is MLflow?
+MLflow is an open-source platform for managing the end-to-end machine learning lifecycle:
+
+- Tracking: Log metrics, parameters, and models.
+- Projects: Reproducible packaging of code.
+- Models: Deployment and sharing of models.
+- Registry: Centralized model store.
+
+## Links:
+- **[Project Notebook](https://www.kaggle.com/code/alialarkawazi/bn-marketing-ml)**
+- **[Dataset](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)**

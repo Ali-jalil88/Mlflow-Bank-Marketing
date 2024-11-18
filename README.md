@@ -1,6 +1,6 @@
 # Bank Marketing Dataset - MLflow Project
-Table of Contents
-Introduction
+1- Table of Contents
+2- Introduction
 Dataset Description
 Features
 Setup and Installation
